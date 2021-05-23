@@ -23,3 +23,11 @@ Fun facts about IUPC 2021(ICPC Yinchuan Regional 2021)
 ## Gallery
 
 **Under construction**
+
+### Comfirmation of plagiarism
+
+![Comfirmation of plagiarism](gallery/wyh1.jpeg)
+
+### Response of organizer
+
+![Response of organizer](gallery/response.jpeg)
