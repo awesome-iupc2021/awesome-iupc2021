@@ -1,5 +1,6 @@
 # Awesome(😅) IUPC 2021(ICPC Yinchuan Regional 2021)
 
+**Under construction**
 <!-- [中文](README_zh.md) -->
 
 ## TL;DR
@@ -39,6 +40,10 @@ IUPC is an ironic alias of ICPC Yinchuan Regional hold by NXIST (Ningxia Institu
 ## Gallery
 
 **Under construction**
+
+### Evidence of using three computers
+
+![Evidence of using three computers](three_computer.jpg)
 
 ### Comfirmation of plagiarism
 
