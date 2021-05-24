@@ -5,7 +5,7 @@
 
 ## TL;DR
 
-In ICPC Yinchuan Regional 2021, the teams from NXIST (Ningxia Institute of Science and Technology, the organizer of this contest) was caught cheated with strong evidence (copy-pasting code of other teams, using three computers), but left unpunished. The organizer accuse the judge who reveals this fact as "unidentified person" illegally copied the result from the server and refused to take further action.
+In ICPC Yinchuan Regional 2021, two teams from NXIST (Ningxia Institute of Science and Technology, the organizer of this contest) was caught cheated with strong evidence (copy-pasting code of other teams, using three computers). They were awarded with a gold medal and a silver medal, and still left unpunished. The organizer denies this obvious cheating action, and accuses the judge who reveals this fact as "unidentified person" illegally copied the result from the server and refused to take further action.
 
 ## About this repo
 
