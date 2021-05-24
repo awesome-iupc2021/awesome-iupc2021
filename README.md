@@ -37,6 +37,10 @@ IUPC is an ironic alias of ICPC Yinchuan Regional hold by NXIST. It's originated
 
 [Wechat news article (Chinese)](https://mp.weixin.qq.com/s?__biz=MzI2NzU5NTU3NQ==&mid=2247504526&idx=1&sn=860e28dc1121c23b76401b96de88758c&chksm=eafee8d6dd8961c0489d92af846d9289390ca013f617314dc84d5e99f928025e2d37d34ffc74&mpshare=1&scene=23&srcid=05245815p8kQp0wQBEz8UmrH&sharer_sharetime=1621864239839&sharer_shareid=b375808bc096414bf1f7ae3e849e2bc1#rd)
 
+### Other
+
+[T-shirts in memory of this event (Chinese)](https://zhuanlan.zhihu.com/p/374928451)
+
 ## Gallery
 
 **Under construction**
