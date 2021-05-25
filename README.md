@@ -5,13 +5,13 @@
 
 ## TL;DR
 
-In ICPC Yinchuan Regional 2021, two teams from NXIST (Ningxia Institute of Science and Technology, the organizer of this contest) was caught cheated with strong evidence (copy-pasting code of other teams, using three computers). They were awarded with a gold medal and a silver medal, and still left unpunished. The organizer denies this obvious cheating action, and accuses the judge who reveals this fact as "unidentified person" illegally copied the result from the server and refused to take further action.
+In ICPC Yinchuan Regional 2021, two teams from NXIST (Ningxia Institute of Science and Technology, the organizer of this contest) were caught conducting cheating with strong evidence (copy-pasting code of other teams, using three computers). They were awarded a gold medal and a silver medal. And they left unpunished till now. The organizer denies this obvious cheating action, accused the judge who reveals this fact as an "unidentified person" illegally copied the result from the server, refused to take further action.
 
 ## About this repo
 
-Our objective is to make all ICPC contestants and people interested in competitive programming aware of this mindblowing cheating event in ICPC. A lot of work still needs to be done, including adding details, correcting spell/grammar errors, adding a concise description (TL;DR), adding Chinese version, **pull requests are extremely needed and highly appreciated**!
+Our objective is to make all ICPC contestants and people interested in competitive programming aware of this mindblowing cheating event in ICPC. A lot of work still needs to be done, including adding details, correcting spell/grammar errors, adding a concise description (TL;DR), adding a Chinese version, **pull requests are extremely needed and highly appreciated**!
 
-IUPC is an ironic alias of ICPC Yinchuan Regional hold by NXIST. It's originated from a poster of NXIST which used an incorrect English translation "International University Programming Contest" to refer ICPC, reflecting NXIST has no respect to ICPC.
+IUPC is an ironic alias of ICPC Yinchuan Regional hold by NXIST. It's originated from a poster of NXIST which used an incorrect English translation "International University Programming Contest" to refer to ICPC, reflecting NXIST has no respect for ICPC.
 
 ## Links
 
@@ -49,7 +49,7 @@ IUPC is an ironic alias of ICPC Yinchuan Regional hold by NXIST. It's originated
 
 ### Evidence of using three computers
 
-![Evidence of using three computers](three_computer.jpg)
+![Evidence of using three computers](gallery/three_computer.jpg)
 
 ### Comfirmation of plagiarism
 
