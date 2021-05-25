@@ -9,7 +9,7 @@ In ICPC Yinchuan Regional 2021, two teams from NXIST (Ningxia Institute of Scien
 
 ## About this repo
 
-Our objective is to make all ICPC contestants and people interested in competitive programming aware of this mindblowing cheating event in ICPC. A lot of work still needs to be done, including adding details, correcting spell/grammar errors, adding a concise description (TL;DR), pull requests are highly appreciated!
+Our objective is to make all ICPC contestants and people interested in competitive programming aware of this mindblowing cheating event in ICPC. A lot of work still needs to be done, including adding details, correcting spell/grammar errors, adding a concise description (TL;DR), adding Chinese version, **pull requests are extremely needed and highly appreciated**!
 
 IUPC is an ironic alias of ICPC Yinchuan Regional hold by NXIST. It's originated from a poster of NXIST which used an incorrect English translation "International University Programming Contest" to refer ICPC, reflecting NXIST has no respect to ICPC.
 
@@ -30,6 +30,8 @@ IUPC is an ironic alias of ICPC Yinchuan Regional hold by NXIST. It's originated
 [Discussion on zhihu.com (Chinese): 如何评价ICPC银川站在铁证如山的情况下微博发布的作弊调查结果？三机位三个笔记本，是否违规？](https://www.zhihu.com/question/460542016)
 
 [Discussion on zhihu.com (Chinese): 如何评价 2021 年 ICPC 银川赛区？](https://www.zhihu.com/question/436832940)
+
+[Article on zhihu.com (Chinese): 宁理事件之我见](https://zhuanlan.zhihu.com/p/374973215)
 
 ### Response of NXIST
 
