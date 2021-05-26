@@ -39,6 +39,8 @@ IUPC is an ironic alias of ICPC Yinchuan Regional hold by NXIST. It's originated
 
 [Article on zhihu.com (Chinese): 如何看待 2021 年的 ICPC 银川站涉舞弊争议，宁夏理工学院在官方公众号发布优秀队员获金牌感言？- 邬晓钧的回答](https://www.zhihu.com/question/461222006/answer/1904881160)
 
+[Article on zhihu.com (Chinese): 随笔（2021.5.26）](https://zhuanlan.zhihu.com/p/375467800)
+
 ### Response of NXIST
 
 [Weibo response (Chinese)](https://weibo.com/u/7535856183)
