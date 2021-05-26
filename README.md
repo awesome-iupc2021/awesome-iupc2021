@@ -49,7 +49,9 @@ IUPC is an ironic alias of ICPC Yinchuan Regional hold by NXIST. It's originated
 
 ## Gallery
 
-**Under construction**
+### The director said the investigation result will be released on June 7th
+
+![](gallery/-69de22c7358848a.png)
 
 ### Evidence of using three computers
 
