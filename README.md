@@ -1,5 +1,7 @@
 # Awesome(😅) IUPC 2021(ICPC Yinchuan Regional 2021)
 
+**New update: The history of ICPC corruption in China: [如何看待 2021 年的 ICPC 银川站涉舞弊争议，宁夏理工学院在官方公众号发布优秀队员获金牌感言？- 邬晓钧的回答](https://www.zhihu.com/question/461222006/answer/1904881160)**
+
 **Under construction**
 <!-- [中文](README_zh.md) -->
 
