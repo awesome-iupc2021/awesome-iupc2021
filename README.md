@@ -49,6 +49,8 @@ IUPC is an ironic alias of ICPC Yinchuan Regional hold by NXIST. It's originated
 
 [T-shirts in memory of this event (Chinese)](https://zhuanlan.zhihu.com/p/374928451)
 
+[QQ group for discussion of this event: AUPC-2021🐸老师🐬老师和🐯老师粉丝群](https://jq.qq.com/?_wv=1027&k=XNO85Yd4)
+
 ## Gallery
 
 ### The director said the investigation result will be released on June 7th
