@@ -2,7 +2,7 @@
 
 **New update: Timeline of ICPC corruption in China: [随笔（2021.5.26）](https://zhuanlan.zhihu.com/p/375467800)**
 
-**New update: [Funny ironic video: AUPC对王之王](https://m.bilibili.com/video/BV1b44y1z7Pe)**
+**New update: [Funny ironic video: AUPC对王之王](https://www.bilibili.com/video/BV1rQ4y1R7UH)**
 
 
 **Under construction**
@@ -54,7 +54,7 @@ IUPC is an ironic alias of ICPC Yinchuan Regional hold by NXIST. It's originated
 
 ### Other
 
-[Funny ironic video: AUPC对王之王](https://m.bilibili.com/video/BV1b44y1z7Pe)
+[Funny ironic video: AUPC对王之王](https://www.bilibili.com/video/BV1rQ4y1R7UH?)
 
 [T-shirts in memory of this event (Chinese)](https://zhuanlan.zhihu.com/p/374928451)
 
